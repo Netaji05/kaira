@@ -1,0 +1,8 @@
+{
+  "name": "KAIRA Jewellery | kairajewelry.in",
+  "description": "Official Store (kairajewelry.in) - Premium 18k Gold Plated Anti-Tarnish Jewelry with WhatsApp Checkout & Order Tracking",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
